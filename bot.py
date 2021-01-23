@@ -57,4 +57,4 @@ async def yt(self, ctx, *, search):
 
 	await ctx.send('http://www.youtube.com/watch?v=' + search_results[0])
 
-bot.run('ODAyMjY2NzY2MTM4MDE1NzQ1.YAsvJg.NxFIqopZ00ZJAtXVPS6spdJlNPQ') - # My TOKEN Bot in my case
+bot.run('TOKEN') 
